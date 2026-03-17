@@ -13,5 +13,5 @@
 - AI Tools : OpenAI, Langchain
 
 ##
--Agentic-ai-investment-analysis
--Sre-log-analyzer
+- Agentic-ai-investment-analysis
+- Sre-log-analyzer
