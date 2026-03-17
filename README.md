@@ -16,6 +16,6 @@
 
 ## Projects
 - Agentic-ai-investment-analysis
-  -> Investment Analyses of top companies using RAG-based system to retrieve information as financial metrics 
+  -> Analyzes investment datasets to identify trends, risks, and insights
 - Sre-log-analyzer
   -> Analyses system logs to summarize issues amd root causes
